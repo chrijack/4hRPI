@@ -6,7 +6,7 @@
 #Website       :www.osoyoo.com
 #Update        :2017/07/02
 ############################################################################
-import smbus
+import smbus2 as smbus
 import time
 
 # Define some device parameters
