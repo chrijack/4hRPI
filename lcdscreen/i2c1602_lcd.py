@@ -90,7 +90,7 @@ def main():
 
     # Send some test
     lcd_string("The Robots     <",LCD_LINE_1)
-    lcd_string("Are Comming!   <",LCD_LINE_2)
+    lcd_string("Are Coming!    <",LCD_LINE_2)
 
     time.sleep(3)
   
